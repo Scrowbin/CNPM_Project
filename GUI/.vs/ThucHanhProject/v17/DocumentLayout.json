@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\gui\\ucconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:ucconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\gui\\uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\gui\\uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\gui\\ucloginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:ucloginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ucLogin.cs [Design]",
+              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\ucLogin.cs",
+              "RelativeDocumentMoniker": "ucLogin.cs",
+              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\ucLogin.cs [Design]",
+              "RelativeToolTip": "ucLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:14:14.291Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ucLogin.cs",
+              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\ucLogin.cs",
+              "RelativeDocumentMoniker": "ucLogin.cs",
+              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\ucLogin.cs",
+              "RelativeToolTip": "ucLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:14:09.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ucConfig.cs [Design]",
+              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\ucConfig.cs",
+              "RelativeDocumentMoniker": "ucConfig.cs",
+              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\ucConfig.cs [Design]",
+              "RelativeToolTip": "ucConfig.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:13:04.831Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ucLoginManager.cs",
+              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\ucLoginManager.cs",
+              "RelativeDocumentMoniker": "ucLoginManager.cs",
+              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\ucLoginManager.cs",
+              "RelativeToolTip": "ucLoginManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:12:12.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

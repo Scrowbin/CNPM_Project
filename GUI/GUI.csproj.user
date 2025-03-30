@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePageAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="HomePageUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucLogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucConfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucLoginCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucLoginManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucSelectRole.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
