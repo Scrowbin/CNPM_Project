@@ -1,22 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\",
+  "WorkspaceRootPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\gui\\ucconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:ucconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\cnpm_project\\gui\\frm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\gui\\uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\cnpm_project\\gui\\homepageuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:homepageuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\gui\\uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\cnpm_project\\gui\\frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\gui\\ucloginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:ucloginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\cnpm_project\\gui\\homepageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:homepageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\cnpm_project\\gui\\ucloginmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:ucloginmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\cnpm_project\\gui\\homepageadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:homepageadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\cnpm_project\\gui\\uclogincustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:uclogincustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\cnpm_project\\gui\\homepageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:homepageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\cnpm_project\\gui\\homepageadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:homepageadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\cnpm_project\\gui\\frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\project\\cnpm_project\\gui\\homepageadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:homepageadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,51 +71,141 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ucLogin.cs [Design]",
-              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\ucLogin.cs",
-              "RelativeDocumentMoniker": "ucLogin.cs",
-              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\ucLogin.cs [Design]",
-              "RelativeToolTip": "ucLogin.cs [Design]",
+              "Title": "HomePageUser.Designer.cs",
+              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\HomePageUser.Designer.cs",
+              "RelativeDocumentMoniker": "HomePageUser.Designer.cs",
+              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\HomePageUser.Designer.cs",
+              "RelativeToolTip": "HomePageUser.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T15:14:14.291Z",
+              "WhenOpened": "2025-03-31T02:13:35.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePageUser.cs [Design]",
+              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\HomePageUser.cs",
+              "RelativeDocumentMoniker": "HomePageUser.cs",
+              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\HomePageUser.cs [Design]",
+              "RelativeToolTip": "HomePageUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:10:24.694Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ucLogin.cs",
-              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\ucLogin.cs",
-              "RelativeDocumentMoniker": "ucLogin.cs",
-              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\ucLogin.cs",
-              "RelativeToolTip": "ucLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "frm.cs [Design]",
+              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\frm.cs",
+              "RelativeDocumentMoniker": "frm.cs",
+              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\frm.cs [Design]",
+              "RelativeToolTip": "frm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T15:14:09.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ucConfig.cs [Design]",
-              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\ucConfig.cs",
-              "RelativeDocumentMoniker": "ucConfig.cs",
-              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\ucConfig.cs [Design]",
-              "RelativeToolTip": "ucConfig.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T15:13:04.831Z",
+              "WhenOpened": "2025-03-31T02:05:51.393Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ucLoginManager.cs",
-              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\ucLoginManager.cs",
-              "RelativeDocumentMoniker": "ucLoginManager.cs",
-              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\GUI\\ucLoginManager.cs",
-              "RelativeToolTip": "ucLoginManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Title": "HomePageUser.cs",
+              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\HomePageUser.cs",
+              "RelativeDocumentMoniker": "HomePageUser.cs",
+              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\HomePageUser.cs",
+              "RelativeToolTip": "HomePageUser.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T15:12:12.238Z",
+              "WhenOpened": "2025-03-31T02:03:19.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ucLoginCustomer.cs",
+              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\ucLoginCustomer.cs",
+              "RelativeDocumentMoniker": "ucLoginCustomer.cs",
+              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\ucLoginCustomer.cs",
+              "RelativeToolTip": "ucLoginCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:03:08.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePageAdmin.cs",
+              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\HomePageAdmin.cs",
+              "RelativeDocumentMoniker": "HomePageAdmin.cs",
+              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\HomePageAdmin.cs",
+              "RelativeToolTip": "HomePageAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:03:04.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ucLoginManager.Designer.cs",
+              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\ucLoginManager.Designer.cs",
+              "RelativeDocumentMoniker": "ucLoginManager.Designer.cs",
+              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\ucLoginManager.Designer.cs",
+              "RelativeToolTip": "ucLoginManager.Designer.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAcwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:57:39.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm.Designer.cs",
+              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\frm.Designer.cs",
+              "RelativeDocumentMoniker": "frm.Designer.cs",
+              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\frm.Designer.cs",
+              "RelativeToolTip": "frm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:16:17.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm.cs",
+              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\frm.cs",
+              "RelativeDocumentMoniker": "frm.cs",
+              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\frm.cs",
+              "RelativeToolTip": "frm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:05:06.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomePageAdmin.cs [Design]",
+              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\HomePageAdmin.cs",
+              "RelativeDocumentMoniker": "HomePageAdmin.cs",
+              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\HomePageAdmin.cs [Design]",
+              "RelativeToolTip": "HomePageAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:02:10.437Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomePageAdmin.Designer.cs",
+              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\HomePageAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "HomePageAdmin.Designer.cs",
+              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\HomePageAdmin.Designer.cs",
+              "RelativeToolTip": "HomePageAdmin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:01:53.347Z",
               "EditorCaption": ""
             }
           ]

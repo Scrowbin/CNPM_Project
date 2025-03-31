@@ -1672,11 +1672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\DAL\\DAL.csproj",
+      "projectUniqueName": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\DAL\\DAL.csproj",
+      "projectPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\hjiis\\.nuget\\packages\\",
-      "outputPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\DAL\\obj\\",
+      "outputPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

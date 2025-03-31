@@ -14,6 +14,7 @@ namespace GUI
     public partial class HomePageUser : UserControl
     {
         private Bitmap gradientBackground;
+        public event Action<UserControl>? RequestLoadControl;
 
         public HomePageUser()
         {

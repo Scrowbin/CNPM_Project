@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\BUS\\BUS.csproj": {}
+    "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\BUS\\BUS.csproj": {}
   },
   "projects": {
-    "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\BUS\\BUS.csproj": {
+    "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\BUS\\BUS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\BUS\\BUS.csproj",
+        "projectUniqueName": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\BUS\\BUS.csproj",
         "projectName": "BUS",
-        "projectPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\BUS\\BUS.csproj",
+        "projectPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\BUS\\BUS.csproj",
         "packagesPath": "C:\\Users\\hjiis\\.nuget\\packages\\",
-        "outputPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\BUS\\obj\\",
+        "outputPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\BUS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

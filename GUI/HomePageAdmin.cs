@@ -12,6 +12,8 @@ namespace GUI
 {
     public partial class HomePageAdmin : UserControl
     {
+        public event Action<UserControl>? RequestLoadControl;
+
         public HomePageAdmin()
         {
             InitializeComponent();

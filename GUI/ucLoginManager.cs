@@ -13,18 +13,23 @@ namespace GUI
     public partial class ucLoginManager : UserControl
     {
         public event Action<UserControl>? RequestLoadControl;
+
         public ucLoginManager()
         {
             InitializeComponent();
         }
-        private void ucLoginManager_Load(object sender, EventArgs e)
-        {
-
-        }
 
         private void btnLoginManager_Click(object sender, EventArgs e)
         {
-            RequestLoadControl?.Invoke(new HomePageAdmin());
+            if (RequestLoadControl != null)
+            {
+                RequestLoadControl.Invoke(new HomePageAdmin());
+            }
+            else
+            {
+                MessageBox.Show("Error: Cannot navigate to HomePageAdmin.", "Navigation Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
         }
     }
+
 }

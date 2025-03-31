@@ -118,7 +118,6 @@
             Margin = new Padding(3, 2, 3, 2);
             Name = "ucLoginManager";
             Size = new Size(679, 320);
-            Load += ucLoginManager_Load;
             ResumeLayout(false);
             PerformLayout();
         }
