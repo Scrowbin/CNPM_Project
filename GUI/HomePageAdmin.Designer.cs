@@ -1,6 +1,6 @@
 ﻿namespace GUI
 {
-    partial class HomePageAdmin : UserControl
+    partial class HomePageAdmin : Form
     {
         /// <summary>
         ///  Required designer variable.

@@ -2,55 +2,69 @@
 {
     public partial class frm : Form
     {
-        private UserControl? currentControl = null;
+        Form home;
 
         public frm()
         {
             InitializeComponent();
+            //if (Program.role == "renter")
+            //{
+            //    home = new HomePageUser();
+
+            //}
+            //if (Program.role == "rentee")
+            //{
+            //    home = new HomePageAdmin();
+            //}
+            //else
+            //{
+            //    return;
+            //}
+            home = new HomePageUser();
+            showForm(home);
         }
 
-        private void frmConfig_Load(object sender, EventArgs e)
+        private  void showForm(Form a)
         {
-            LoadControl(new ucLogin()); // Start with Login page
+            a.TopLevel = false;
+            a.FormBorderStyle = FormBorderStyle.None;
+            a.Dock = DockStyle.Fill;
+            panel1.Controls.Add(a);
+            a.Show();
         }
-        private void ShowPanelTop()
+        private void panelContainer_Paint(object sender, PaintEventArgs e)
         {
-            panel1.Visible = true;
-            panel1.Height = 30; // Adjust height
-            panelContainer.Dock = DockStyle.Fill;
+
         }
 
-        private void LoadControl(UserControl newControl)
+        private void homeToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (currentControl != null)
-            {
-                panelContainer.Controls.Remove(currentControl);
-                currentControl.Dispose();
-            }
+            showForm(home);
+        }
 
-            currentControl = newControl;
+        private void searchToolStripMenuItem_Click(object sender, EventArgs e)
+        {
 
-            // Register event for switching controls
-            if (newControl is ucLogin loginControl)
-                loginControl.RequestLoadControl += LoadControl;
-            else if (newControl is ucConfig configControl)
-                configControl.RequestLoadControl += LoadControl;
-            else if (newControl is ucSelectRole selectRoleControl)
-                selectRoleControl.RequestLoadControl += LoadControl;
-            else if (newControl is ucLoginManager loginManager)
-                loginManager.RequestLoadControl += LoadControl;
-            else if (newControl is ucLoginCustomer loginCustomer)
-                loginCustomer.RequestLoadControl += LoadControl;
-            else if (newControl is HomePageAdmin homeAdmin)
-                homeAdmin.RequestLoadControl += LoadControl;
-            else if (newControl is HomePageUser homePageUser)
-                homePageUser.RequestLoadControl += LoadControl;
+        }
 
-            currentControl.Dock = DockStyle.Fill;
-            panelContainer.Controls.Add(currentControl);
-            if (newControl is HomePageUser || newControl is HomePageAdmin)
-                ShowPanelTop();
-                
+        private void myRentalsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void paymentToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void notificationToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 

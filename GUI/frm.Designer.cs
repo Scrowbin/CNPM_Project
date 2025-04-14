@@ -28,88 +28,106 @@
         /// </summary>
         private void InitializeComponent()
         {
-            panelContainer = new Panel();
+            menuStrip1 = new MenuStrip();
+            homeToolStripMenuItem = new ToolStripMenuItem();
+            toolStripMenuItem2 = new ToolStripMenuItem();
+            searchToolStripMenuItem = new ToolStripMenuItem();
+            toolStripMenuItem3 = new ToolStripMenuItem();
+            myRentalsToolStripMenuItem = new ToolStripMenuItem();
+            toolStripMenuItem4 = new ToolStripMenuItem();
+            paymentToolStripMenuItem = new ToolStripMenuItem();
+            toolStripMenuItem5 = new ToolStripMenuItem();
+            notificationToolStripMenuItem = new ToolStripMenuItem();
+            toolStripMenuItem6 = new ToolStripMenuItem();
             panel1 = new Panel();
-            button5 = new Button();
-            button4 = new Button();
-            button3 = new Button();
-            button2 = new Button();
-            button1 = new Button();
-            panel1.SuspendLayout();
+            menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
-            // panelContainer
+            // menuStrip1
             // 
-            panelContainer.Dock = DockStyle.Fill;
-            panelContainer.Location = new Point(0, 0);
-            panelContainer.Margin = new Padding(3, 2, 3, 2);
-            panelContainer.Name = "panelContainer";
-            panelContainer.Size = new Size(1023, 548);
-            panelContainer.TabIndex = 0;
+            menuStrip1.Items.AddRange(new ToolStripItem[] { homeToolStripMenuItem, searchToolStripMenuItem, myRentalsToolStripMenuItem, paymentToolStripMenuItem, notificationToolStripMenuItem });
+            menuStrip1.Location = new Point(0, 0);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Size = new Size(1023, 24);
+            menuStrip1.TabIndex = 0;
+            menuStrip1.Text = "menuStrip1";
+            // 
+            // homeToolStripMenuItem
+            // 
+            homeToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { toolStripMenuItem2 });
+            homeToolStripMenuItem.Name = "homeToolStripMenuItem";
+            homeToolStripMenuItem.Size = new Size(52, 20);
+            homeToolStripMenuItem.Text = "Home";
+            homeToolStripMenuItem.Click += homeToolStripMenuItem_Click;
+            // 
+            // toolStripMenuItem2
+            // 
+            toolStripMenuItem2.Name = "toolStripMenuItem2";
+            toolStripMenuItem2.Size = new Size(180, 22);
+            toolStripMenuItem2.Text = "1";
+            // 
+            // searchToolStripMenuItem
+            // 
+            searchToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { toolStripMenuItem3 });
+            searchToolStripMenuItem.Name = "searchToolStripMenuItem";
+            searchToolStripMenuItem.Size = new Size(54, 20);
+            searchToolStripMenuItem.Text = "Search";
+            searchToolStripMenuItem.Click += searchToolStripMenuItem_Click;
+            // 
+            // toolStripMenuItem3
+            // 
+            toolStripMenuItem3.Name = "toolStripMenuItem3";
+            toolStripMenuItem3.Size = new Size(180, 22);
+            toolStripMenuItem3.Text = "1";
+            // 
+            // myRentalsToolStripMenuItem
+            // 
+            myRentalsToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { toolStripMenuItem4 });
+            myRentalsToolStripMenuItem.Name = "myRentalsToolStripMenuItem";
+            myRentalsToolStripMenuItem.Size = new Size(77, 20);
+            myRentalsToolStripMenuItem.Text = "My Rentals";
+            myRentalsToolStripMenuItem.Click += myRentalsToolStripMenuItem_Click;
+            // 
+            // toolStripMenuItem4
+            // 
+            toolStripMenuItem4.Name = "toolStripMenuItem4";
+            toolStripMenuItem4.Size = new Size(180, 22);
+            toolStripMenuItem4.Text = "1";
+            // 
+            // paymentToolStripMenuItem
+            // 
+            paymentToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { toolStripMenuItem5 });
+            paymentToolStripMenuItem.Name = "paymentToolStripMenuItem";
+            paymentToolStripMenuItem.Size = new Size(66, 20);
+            paymentToolStripMenuItem.Text = "Payment";
+            paymentToolStripMenuItem.Click += paymentToolStripMenuItem_Click;
+            // 
+            // toolStripMenuItem5
+            // 
+            toolStripMenuItem5.Name = "toolStripMenuItem5";
+            toolStripMenuItem5.Size = new Size(180, 22);
+            toolStripMenuItem5.Text = "1";
+            // 
+            // notificationToolStripMenuItem
+            // 
+            notificationToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { toolStripMenuItem6 });
+            notificationToolStripMenuItem.Name = "notificationToolStripMenuItem";
+            notificationToolStripMenuItem.Size = new Size(82, 20);
+            notificationToolStripMenuItem.Text = "Notification";
+            notificationToolStripMenuItem.Click += notificationToolStripMenuItem_Click;
+            // 
+            // toolStripMenuItem6
+            // 
+            toolStripMenuItem6.Name = "toolStripMenuItem6";
+            toolStripMenuItem6.Size = new Size(180, 22);
+            toolStripMenuItem6.Text = "1";
             // 
             // panel1
             // 
-            panel1.Controls.Add(button5);
-            panel1.Controls.Add(button4);
-            panel1.Controls.Add(button3);
-            panel1.Controls.Add(button2);
-            panel1.Controls.Add(button1);
-            panel1.Dock = DockStyle.Top;
-            panel1.Location = new Point(0, 0);
+            panel1.Location = new Point(0, 27);
             panel1.Name = "panel1";
-            panel1.Size = new Size(1023, 24);
+            panel1.Size = new Size(1023, 524);
             panel1.TabIndex = 1;
-            panel1.Visible = false;
-            // 
-            // button5
-            // 
-            button5.Anchor = AnchorStyles.Left | AnchorStyles.Right;
-            button5.Location = new Point(333, 1);
-            button5.Name = "button5";
-            button5.Size = new Size(81, 23);
-            button5.TabIndex = 4;
-            button5.Text = "Notification";
-            button5.UseVisualStyleBackColor = true;
-            // 
-            // button4
-            // 
-            button4.Anchor = AnchorStyles.Left | AnchorStyles.Right;
-            button4.Location = new Point(252, 1);
-            button4.Name = "button4";
-            button4.Size = new Size(75, 23);
-            button4.TabIndex = 3;
-            button4.Text = "Payment";
-            button4.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            button3.Anchor = AnchorStyles.Left | AnchorStyles.Right;
-            button3.Location = new Point(171, 1);
-            button3.Name = "button3";
-            button3.Size = new Size(75, 23);
-            button3.TabIndex = 2;
-            button3.Text = "My Rentals";
-            button3.UseVisualStyleBackColor = true;
-            // 
-            // button2
-            // 
-            button2.Anchor = AnchorStyles.Left | AnchorStyles.Right;
-            button2.Location = new Point(90, 1);
-            button2.Name = "button2";
-            button2.Size = new Size(75, 23);
-            button2.TabIndex = 1;
-            button2.Text = "Search";
-            button2.UseVisualStyleBackColor = true;
-            // 
-            // button1
-            // 
-            button1.Anchor = AnchorStyles.Left | AnchorStyles.Right;
-            button1.Location = new Point(12, 1);
-            button1.Name = "button1";
-            button1.Size = new Size(72, 23);
-            button1.TabIndex = 0;
-            button1.Text = "Home";
-            button1.UseVisualStyleBackColor = true;
             // 
             // frm
             // 
@@ -117,23 +135,29 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1023, 548);
             Controls.Add(panel1);
-            Controls.Add(panelContainer);
+            Controls.Add(menuStrip1);
+            MainMenuStrip = menuStrip1;
             Margin = new Padding(3, 2, 3, 2);
             Name = "frm";
             Text = "PlumeriaTHINGBABOBOEY";
-            Load += frmConfig_Load;
-            panel1.ResumeLayout(false);
+            menuStrip1.ResumeLayout(false);
+            menuStrip1.PerformLayout();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
-
-        private Panel panelContainer;
+        private MenuStrip menuStrip1;
+        private ToolStripMenuItem homeToolStripMenuItem;
+        private ToolStripMenuItem searchToolStripMenuItem;
+        private ToolStripMenuItem myRentalsToolStripMenuItem;
+        private ToolStripMenuItem paymentToolStripMenuItem;
+        private ToolStripMenuItem notificationToolStripMenuItem;
+        private ToolStripMenuItem toolStripMenuItem2;
+        private ToolStripMenuItem toolStripMenuItem3;
+        private ToolStripMenuItem toolStripMenuItem4;
+        private ToolStripMenuItem toolStripMenuItem5;
+        private ToolStripMenuItem toolStripMenuItem6;
         private Panel panel1;
-        private Button button5;
-        private Button button4;
-        private Button button3;
-        private Button button2;
-        private Button button1;
     }
 }

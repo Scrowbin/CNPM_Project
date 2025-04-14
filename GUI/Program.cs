@@ -1,8 +1,8 @@
-namespace GUI
+﻿namespace GUI
 {
     internal static class Program
     {
-        public static String server = "", db = "", uid = "", pw = "", authen = "";
+        public static String server = "", db = "", uid = "", pw = "", authen = "", role = "renter";
 
         /// <summary>
         ///  The main entry point for the application.
@@ -13,7 +13,32 @@ namespace GUI
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new frm());
+
+            if (!Config.ConfigFileExists())
+            {
+                try
+                {
+                    Config.LoadConfig();
+                }
+                catch (Exception e)
+                {
+                    MessageBox.Show("Không tìm thấy config", "Tạo file config mới");
+                    Application.Run(new frmConfig());
+                }
+            }
+            else
+                try
+                {
+                    Config.LoadConfig();
+                    Application.Run(new frmLogin());
+                }
+                catch (Exception e)
+                {
+                    MessageBox.Show("Lỗi config", e.Message);
+                }
+
+
+
         }
     }
 }

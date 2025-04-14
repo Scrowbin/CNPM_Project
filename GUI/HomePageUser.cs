@@ -11,10 +11,9 @@ using System.Drawing.Drawing2D;
 
 namespace GUI
 {
-    public partial class HomePageUser : UserControl
+    public partial class HomePageUser : Form
     {
         private Bitmap gradientBackground;
-        public event Action<UserControl>? RequestLoadControl;
 
         public HomePageUser()
         {

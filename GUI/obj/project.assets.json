@@ -1672,11 +1672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\GUI.csproj",
+      "projectUniqueName": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\GUI.csproj",
       "projectName": "GUI",
-      "projectPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\GUI.csproj",
+      "projectPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\GUI.csproj",
       "packagesPath": "C:\\Users\\hjiis\\.nuget\\packages\\",
-      "outputPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\Project\\CNPM_Project\\GUI\\obj\\",
+      "outputPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

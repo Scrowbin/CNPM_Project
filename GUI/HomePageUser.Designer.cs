@@ -2,7 +2,7 @@
 
 namespace GUI
 {
-    partial class HomePageUser : UserControl
+    partial class HomePageUser : Form
     {
         /// <summary>
         ///  Required designer variable.
@@ -168,7 +168,6 @@ namespace GUI
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             AutoSizeMode = AutoSizeMode.GrowAndShrink;
-            BackColor = Color.Transparent;
             BackgroundImageLayout = ImageLayout.Stretch;
             Controls.Add(tableLayoutPanel1);
             DoubleBuffered = true;

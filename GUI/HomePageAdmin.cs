@@ -10,10 +10,8 @@ using System.Windows.Forms;
 
 namespace GUI
 {
-    public partial class HomePageAdmin : UserControl
+    public partial class HomePageAdmin : Form
     {
-        public event Action<UserControl>? RequestLoadControl;
-
         public HomePageAdmin()
         {
             InitializeComponent();
