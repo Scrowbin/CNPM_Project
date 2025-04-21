@@ -48,7 +48,7 @@
             menuStrip1.Items.AddRange(new ToolStripItem[] { homeToolStripMenuItem, searchToolStripMenuItem, myRentalsToolStripMenuItem, paymentToolStripMenuItem, notificationToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(1023, 24);
+            menuStrip1.Size = new Size(1012, 24);
             menuStrip1.TabIndex = 0;
             menuStrip1.Text = "menuStrip1";
             // 
@@ -63,7 +63,7 @@
             // toolStripMenuItem2
             // 
             toolStripMenuItem2.Name = "toolStripMenuItem2";
-            toolStripMenuItem2.Size = new Size(180, 22);
+            toolStripMenuItem2.Size = new Size(80, 22);
             toolStripMenuItem2.Text = "1";
             // 
             // searchToolStripMenuItem
@@ -77,7 +77,7 @@
             // toolStripMenuItem3
             // 
             toolStripMenuItem3.Name = "toolStripMenuItem3";
-            toolStripMenuItem3.Size = new Size(180, 22);
+            toolStripMenuItem3.Size = new Size(80, 22);
             toolStripMenuItem3.Text = "1";
             // 
             // myRentalsToolStripMenuItem
@@ -91,7 +91,7 @@
             // toolStripMenuItem4
             // 
             toolStripMenuItem4.Name = "toolStripMenuItem4";
-            toolStripMenuItem4.Size = new Size(180, 22);
+            toolStripMenuItem4.Size = new Size(80, 22);
             toolStripMenuItem4.Text = "1";
             // 
             // paymentToolStripMenuItem
@@ -105,7 +105,7 @@
             // toolStripMenuItem5
             // 
             toolStripMenuItem5.Name = "toolStripMenuItem5";
-            toolStripMenuItem5.Size = new Size(180, 22);
+            toolStripMenuItem5.Size = new Size(80, 22);
             toolStripMenuItem5.Text = "1";
             // 
             // notificationToolStripMenuItem
@@ -119,27 +119,28 @@
             // toolStripMenuItem6
             // 
             toolStripMenuItem6.Name = "toolStripMenuItem6";
-            toolStripMenuItem6.Size = new Size(180, 22);
+            toolStripMenuItem6.Size = new Size(80, 22);
             toolStripMenuItem6.Text = "1";
             // 
             // panel1
             // 
             panel1.Location = new Point(0, 27);
             panel1.Name = "panel1";
-            panel1.Size = new Size(1023, 524);
+            panel1.Size = new Size(1012, 703);
             panel1.TabIndex = 1;
             // 
             // frm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1023, 548);
+            ClientSize = new Size(1012, 729);
             Controls.Add(panel1);
             Controls.Add(menuStrip1);
+            IsMdiContainer = true;
             MainMenuStrip = menuStrip1;
             Margin = new Padding(3, 2, 3, 2);
             Name = "frm";
-            Text = "PlumeriaTHINGBABOBOEY";
+            Text = "Plumeria";
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
             ResumeLayout(false);

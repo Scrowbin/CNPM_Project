@@ -24,7 +24,7 @@ namespace GUI
 
         private void btnLoginCustomer_Click(object sender, EventArgs e)
         {
-            (new frm()).Show();
+            (new frm()).ShowDialog();
             this.Hide(); // Hides the login form instead of closing it
         }
     }
