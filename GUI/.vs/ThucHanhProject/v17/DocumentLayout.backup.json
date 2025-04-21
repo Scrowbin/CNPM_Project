@@ -1,33 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\cnpm_project\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TDTU\\HK4\\Software Engineering\\Code\\HouseRentalManagement\\DataAccessLayer\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\cnpm_project\\gui\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\gui\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\cnpm_project\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\cnpm_project\\gui\\frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\cnpm_project\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\cnpm_project\\gui\\homepageuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\gui\\homepageuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:homepageuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|f:\\nam2hocky2\\cong_nghe_phan_mem\\thuchanh\\cnpm_project\\gui\\frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\gui\\frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +41,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -53,76 +60,100 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\frmLogin.cs",
-              "RelativeDocumentMoniker": "frmLogin.cs",
-              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\frmLogin.cs [Design]",
-              "RelativeToolTip": "frmLogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T03:49:53.162Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "connect.cs",
+              "DocumentMoniker": "D:\\TDTU\\HK4\\Software Engineering\\Code\\HouseRentalManagement\\DataAccessLayer\\connect.cs",
+              "ToolTip": "D:\\TDTU\\HK4\\Software Engineering\\Code\\HouseRentalManagement\\DataAccessLayer\\connect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:11:25.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmLogin.cs",
-              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
-              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmLogin.cs",
               "RelativeToolTip": "frmLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T03:43:13.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmLogin.Designer.cs",
-              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmLogin.Designer.cs",
               "RelativeDocumentMoniker": "frmLogin.Designer.cs",
-              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmLogin.Designer.cs",
               "RelativeToolTip": "frmLogin.Designer.cs",
               "ViewState": "AgIAAGQAAAAAAAAAAAAgwH0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T03:41:11.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T03:41:11.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "HomePageUser.Designer.cs",
-              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\HomePageUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\HomePageUser.Designer.cs",
               "RelativeDocumentMoniker": "HomePageUser.Designer.cs",
-              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\HomePageUser.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\HomePageUser.Designer.cs",
               "RelativeToolTip": "HomePageUser.Designer.cs",
               "ViewState": "AgIAAJAAAAAAAAAAAAAgwKkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T03:35:44.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T03:35:44.021Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T03:35:35.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T03:35:35.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "frm.cs",
-              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\frm.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frm.cs",
               "RelativeDocumentMoniker": "frm.cs",
-              "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\frm.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frm.cs",
               "RelativeToolTip": "frm.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,15 +162,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmLogin.cs [Design]",
+              "RelativeToolTip": "frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:49:53.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "frm.cs [Design]",
-              "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\frm.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frm.cs",
               "RelativeDocumentMoniker": "frm.cs",
               "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\frm.cs [Design]",
-              "RelativeToolTip": "frm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T02:51:26.396Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-14T02:51:26.396Z"
             }
           ]
         }

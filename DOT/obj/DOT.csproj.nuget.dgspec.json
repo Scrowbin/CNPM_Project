@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\DOT\\DOT.csproj": {}
+    "C:\\Users\\Dell\\Source\\Repos\\CNPM_Project\\DOT\\DOT.csproj": {}
   },
   "projects": {
-    "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\DOT\\DOT.csproj": {
+    "C:\\Users\\Dell\\Source\\Repos\\CNPM_Project\\DOT\\DOT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\DOT\\DOT.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Source\\Repos\\CNPM_Project\\DOT\\DOT.csproj",
         "projectName": "DOT",
-        "projectPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\DOT\\DOT.csproj",
-        "packagesPath": "C:\\Users\\hjiis\\.nuget\\packages\\",
-        "outputPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\DOT\\obj\\",
+        "projectPath": "C:\\Users\\Dell\\Source\\Repos\\CNPM_Project\\DOT\\DOT.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DOT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hjiis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -74,7 +74,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
