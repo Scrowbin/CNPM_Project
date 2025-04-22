@@ -642,6 +642,22 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "DOT/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Data.SqlClient": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/DOT.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DOT.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
       }
     }
   },
@@ -1658,10 +1674,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "DOT/1.0.0": {
+      "type": "project",
+      "path": "../DOT/DOT.csproj",
+      "msbuildProject": "../DOT/DOT.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
+      "DOT >= 1.0.0",
       "Microsoft.Data.SqlClient >= 6.0.1"
     ]
   },
@@ -1672,11 +1694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\BUS\\BUS.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Source\\Repos\\CNPM_Project\\BUS\\BUS.csproj",
       "projectName": "BUS",
-      "projectPath": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\BUS\\BUS.csproj",
+      "projectPath": "C:\\Users\\Dell\\Source\\Repos\\CNPM_Project\\BUS\\BUS.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\BUS\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Source\\Repos\\CNPM_Project\\BUS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1696,7 +1718,11 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Dell\\Source\\Repos\\CNPM_Project\\DOT\\DOT.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Source\\Repos\\CNPM_Project\\DOT\\DOT.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

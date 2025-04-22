@@ -11,7 +11,7 @@
         "projectName": "GUI",
         "projectPath": "C:\\Users\\Dell\\Source\\Repos\\CNPM_Project\\GUI\\GUI.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Source\\Repos\\CNPM_Project\\GUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
