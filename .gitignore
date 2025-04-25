@@ -1,3 +1,37 @@
-# Ignore all bin folders recursively
+# Ignore all bin and obj folders recursively
 **/bin/
 **/obj/
+
+# Visual Studio cache and settings folders
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]uild/
+[Ll]og/
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Others
+_ReSharper*/
+*.DotSettings.user
+*.dbmdl
+*.bak
+*.cache
+*.pidb
+
+# Rider
+.idea/
+*.iml
+
+# OS-generated files
+.DS_Store
+Thumbs.db
