@@ -27,5 +27,10 @@ namespace GUI
             (new frm()).ShowDialog();
             this.Hide(); // Hides the login form instead of closing it
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

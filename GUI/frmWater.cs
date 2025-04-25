@@ -10,22 +10,16 @@ using System.Windows.Forms;
 
 namespace GUI
 {
-    public partial class FrmSearch : Form
+    public partial class frmWater : Form
     {
-
-        public FrmSearch()
+        public frmWater()
         {
             InitializeComponent();
         }
 
-        public void LoadData()
+        private void frmWater_Load(object sender, EventArgs e)
         {
-            //searchBUS
-        }
-
-        private void FrmSearch_Load(object sender, EventArgs e)
-        {
-
+            
         }
     }
 }

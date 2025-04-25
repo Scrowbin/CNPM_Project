@@ -10,24 +10,24 @@ using System.Windows.Forms;
 
 namespace GUI
 {
-    public partial class HomePageAdmin : Form
+    public partial class frmShort : Form
     {
-        public HomePageAdmin()
+        public frmShort()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        private void frmShort_Load(object sender, EventArgs e)
         {
 
         }
 
         private void button5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }

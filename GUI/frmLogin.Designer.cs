@@ -101,15 +101,17 @@ namespace GUI
             label3.Font = new Font("Segoe UI", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label3.Location = new Point(23, 15);
             label3.Name = "label3";
-            label3.Size = new Size(253, 30);
+            label3.Size = new Size(126, 30);
             label3.TabIndex = 19;
-            label3.Text = "Đăng nhập Khách hàng";
+            label3.Text = "Đăng nhập";
+            label3.Click += label3_Click;
             // 
-            // ucLoginCustomer
+            // frmLogin
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
+            ClientSize = new Size(663, 281);
             Controls.Add(label3);
             Controls.Add(btnForgotPassCustomer);
             Controls.Add(btnLoginCustomer);
@@ -118,8 +120,7 @@ namespace GUI
             Controls.Add(label2);
             Controls.Add(label1);
             Margin = new Padding(3, 2, 3, 2);
-            Name = "ucLoginCustomer";
-            Size = new Size(679, 320);
+            Name = "frmLogin";
             Load += ucLoginCustomer_Load;
             ResumeLayout(false);
             PerformLayout();

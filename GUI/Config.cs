@@ -50,7 +50,7 @@ namespace GUI
                 Program.server = lines[1].Trim();
                 Program.db = lines[2].Trim();
                 Program.uid = "";
-                Program.uid = "";
+                Program.pw = "";
             }
             else if (Program.authen == "server")
             {
@@ -60,7 +60,7 @@ namespace GUI
                 Program.server = lines[1].Trim();
                 Program.db = lines[2].Trim();
                 Program.uid = lines[3].Trim();
-                Program.uid = lines[4].Trim();
+                Program.pw = lines[4].Trim();
             }
             else
             {

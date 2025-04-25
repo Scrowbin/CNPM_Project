@@ -7,25 +7,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DTO;
+using Microsoft.Identity.Client;
 
 namespace GUI
 {
-    public partial class FrmSearch : Form
+    public partial class frmAccount : Form
     {
-
-        public FrmSearch()
+        private List<DienNuoc> Dien;
+        private List<DienNuoc> Nuoc;
+        public frmAccount()
         {
             InitializeComponent();
         }
 
-        public void LoadData()
+        private void frmAccount_Load(object sender, EventArgs e)
         {
-            //searchBUS
-        }
-
-        private void FrmSearch_Load(object sender, EventArgs e)
-        {
-
+           
         }
     }
 }

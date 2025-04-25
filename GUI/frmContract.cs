@@ -10,22 +10,11 @@ using System.Windows.Forms;
 
 namespace GUI
 {
-    public partial class FrmSearch : Form
+    public partial class frmContract : Form
     {
-
-        public FrmSearch()
+        public frmContract()
         {
             InitializeComponent();
-        }
-
-        public void LoadData()
-        {
-            //searchBUS
-        }
-
-        private void FrmSearch_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

@@ -642,6 +642,52 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "BUS/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DAL": "1.0.0",
+          "Microsoft.Data.SqlClient": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/BUS.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BUS.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Data.SqlClient": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTO.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
       }
     }
   },
@@ -1658,31 +1704,48 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "BUS/1.0.0": {
+      "type": "project",
+      "path": "../BUS/BUS.csproj",
+      "msbuildProject": "../BUS/BUS.csproj"
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DAL.csproj",
+      "msbuildProject": "../DAL/DAL.csproj"
+    },
+    "DTO/1.0.0": {
+      "type": "project",
+      "path": "../DTO/DTO.csproj",
+      "msbuildProject": "../DTO/DTO.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
+      "BUS >= 1.0.0",
+      "DTO >= 1.0.0",
       "Microsoft.Data.SqlClient >= 6.0.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {},
+    "C:\\Users\\hjiis\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\GUI.csproj",
+      "projectUniqueName": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\GUI.csproj",
       "projectName": "GUI",
-      "projectPath": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\GUI.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\obj\\",
+      "projectPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\GUI.csproj",
+      "packagesPath": "C:\\Users\\hjiis\\.nuget\\packages\\",
+      "outputPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\GUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hjiis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1696,7 +1759,14 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\BUS\\BUS.csproj": {
+              "projectPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\BUS\\BUS.csproj"
+            },
+            "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\DTO\\DTO.csproj": {
+              "projectPath": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\DTO\\DTO.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -1709,7 +1779,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -1739,7 +1809,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
