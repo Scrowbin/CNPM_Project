@@ -10,16 +10,14 @@ namespace GUI
 {
     public static class Config
     {
+        private static readonly string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "config.txt");
         public static bool ConfigFileExists()
         {
-            string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "config.txt");
             return File.Exists(path);
         }
 
         public static void writeToFile(string[] lines)
         {
-            string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "config.txt");
-
             try
             {
                 File.WriteAllText(path, string.Join(Environment.NewLine, lines));

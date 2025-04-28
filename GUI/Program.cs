@@ -27,6 +27,8 @@
                 }
             }
             else
+            {
+
                 try
                 {
                     Config.LoadConfig();
@@ -36,8 +38,7 @@
                 {
                     MessageBox.Show("Lỗi config", e.Message);
                 }
-
-
+            }
         }
     }
 }
