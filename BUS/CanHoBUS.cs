@@ -1,7 +1,9 @@
-// Nghiệp vụ nhà
-using System.Data;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using DAL;
-using DOT;
 using DTO;
 
 namespace BUS
@@ -13,10 +15,25 @@ namespace BUS
         {
             ch = new CanHoDAL(cn);
         }
-
         public List<CanHo> GetAllCanHo()
         {
             return ch.GetAllCanHo();
+        }
+        public int AddCanHo(CanHo ch)
+        {
+            return this.ch.AddCanHo(ch);
+        }
+        public int UpdateCanHo(CanHo ch)
+        {
+            return this.ch.UpdateCanHo(ch);
+        }
+        public int DeleteCanHo(string maCanHo)
+        {
+            return this.ch.DeleteCanHo(maCanHo);
+        }
+        public CanHo GetCanHoByID(string maChuNha)
+        {
+            return ch.GetCanHoByMaChuNha(maChuNha);
         }
     }
 }
