@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Microsoft.IdentityModel.Tokens;
 using Infrastructure;
+using System.Runtime.InteropServices;
 namespace GUI
 {
     public partial class frmConfig : Form
@@ -67,7 +68,6 @@ namespace GUI
                     };
 
                 // ... same as before
-                Config.writeToFile(lines);
                 this.DialogResult = DialogResult.OK; // success
                 this.Close();
             }

@@ -15,6 +15,7 @@ namespace GUI
             string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "config.txt");
             return File.Exists(path);
         }
+
         public static void writeToFile(string[] lines)
         {
             string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "config.txt");
@@ -65,6 +66,21 @@ namespace GUI
             else
             {
                 throw new Exception("Invalid mode in config file. Use 'windows' or 'server' as the first line.");
+            }
+        }
+        public static string GetConnectionString()
+        {
+            if (Program.authen == "windows")
+            {
+                return $"Data Source={Program.server};Initial Catalog={Program.db};Integrated Security=True;";
+            }
+            else if (Program.authen == "server")
+            {
+                return $"Data Source={Program.server};Initial Catalog={Program.db};User ID={Program.uid};Password={Program.pw};";
+            }
+            else
+            {
+                throw new Exception("Invalid authentication mode in config.");
             }
         }
     }
