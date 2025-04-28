@@ -4,10 +4,10 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-    using DOT;
+using DTO;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.ProgressBar;
 
-    namespace DAL
+namespace DAL
 {
     public class ChuNhaDAL
         {

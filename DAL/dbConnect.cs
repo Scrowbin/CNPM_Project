@@ -12,9 +12,16 @@ namespace DAL
     {
         private SqlConnection conn;
 
-        public dbConnect()
+        public dbConnect(string c)
         {
-            conn = new SqlConnection(@"Data Source=.\SQLEXPRESS;Initial Catalog=QLTV;Integrated Security=True");
+            try
+            {
+                conn = new SqlConnection(c);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi kết nối CSDL: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
 
@@ -34,6 +41,7 @@ namespace DAL
         {
             DataTable dt = new DataTable();
             SqlCommand cmd = new SqlCommand(procName, conn);
+            cmd.CommandType = CommandType.StoredProcedure;
             if (parameters != null)
                 cmd.Parameters.AddRange(parameters);
             SqlDataAdapter da = new SqlDataAdapter(cmd);
@@ -57,6 +65,7 @@ namespace DAL
         public int ExecuteSQL(string procName, SqlParameter[] parameters)
         {
             SqlCommand cmd = new SqlCommand(procName, conn);
+            cmd.CommandType = CommandType.StoredProcedure;
             if (parameters != null)
                 cmd.Parameters.AddRange(parameters);
             conn.Open();
