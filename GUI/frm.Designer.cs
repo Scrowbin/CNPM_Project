@@ -35,8 +35,8 @@
             notificationToolStripMenuItem = new ToolStripMenuItem();
             myInfoToolStripMenuItem = new ToolStripMenuItem();
             báoCáoDoanhThuToolStripMenuItem = new ToolStripMenuItem();
-            tiềnĐiệnToolStripMenuItem = new ToolStripMenuItem();
             panel1 = new Panel();
+            tiềnĐiệnToolStripMenuItem = new ToolStripMenuItem();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -68,7 +68,6 @@
             paymentToolStripMenuItem.Name = "paymentToolStripMenuItem";
             paymentToolStripMenuItem.Size = new Size(73, 20);
             paymentToolStripMenuItem.Text = "Hợp đồng";
-            paymentToolStripMenuItem.Click += paymentToolStripMenuItem_Click;
             // 
             // notificationToolStripMenuItem
             // 
@@ -82,21 +81,12 @@
             myInfoToolStripMenuItem.Name = "myInfoToolStripMenuItem";
             myInfoToolStripMenuItem.Size = new Size(58, 20);
             myInfoToolStripMenuItem.Text = "Chủ hộ";
-            myInfoToolStripMenuItem.Click += myInfoToolStripMenuItem_Click;
             // 
             // báoCáoDoanhThuToolStripMenuItem
             // 
             báoCáoDoanhThuToolStripMenuItem.Name = "báoCáoDoanhThuToolStripMenuItem";
             báoCáoDoanhThuToolStripMenuItem.Size = new Size(119, 20);
             báoCáoDoanhThuToolStripMenuItem.Text = "Báo cáo doanh thu";
-            báoCáoDoanhThuToolStripMenuItem.Click += báoCáoDoanhThuToolStripMenuItem_Click;
-            // 
-            // tiềnĐiệnToolStripMenuItem
-            // 
-            tiềnĐiệnToolStripMenuItem.Name = "tiềnĐiệnToolStripMenuItem";
-            tiềnĐiệnToolStripMenuItem.Size = new Size(68, 20);
-            tiềnĐiệnToolStripMenuItem.Text = "Tiền Điện";
-            tiềnĐiệnToolStripMenuItem.Click += tiềnĐiệnToolStripMenuItem_Click;
             // 
             // panel1
             // 
@@ -104,6 +94,12 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(1012, 703);
             panel1.TabIndex = 1;
+            // 
+            // tiềnĐiệnToolStripMenuItem
+            // 
+            tiềnĐiệnToolStripMenuItem.Name = "tiềnĐiệnToolStripMenuItem";
+            tiềnĐiệnToolStripMenuItem.Size = new Size(68, 20);
+            tiềnĐiệnToolStripMenuItem.Text = "Tiền Điện";
             // 
             // frm
             // 

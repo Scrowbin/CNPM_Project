@@ -70,11 +70,12 @@ namespace GUI
         {
             if (Program.authen == "windows")
             {
-                return $"Data Source={Program.server};Initial Catalog={Program.db};Integrated Security=True;";
+                MessageBox.Show($"Data Source={Program.server};Initial Catalog={Program.db};Integrated Security=True;Trust Server Certificate=True");
+                return $"Data Source={Program.server};Initial Catalog={Program.db};Integrated Security=True;Trust Server Certificate=True";
             }
             else if (Program.authen == "server")
             {
-                return $"Data Source={Program.server};Initial Catalog={Program.db};User ID={Program.uid};Password={Program.pw};";
+                return $"Data Source={Program.server};Initial Catalog={Program.db};User ID={Program.uid};Password={Program.pw};Trust Server Certificate=True";
             }
             else
             {

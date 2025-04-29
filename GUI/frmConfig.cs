@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Microsoft.IdentityModel.Tokens;
+using Infrastructure;
 using System.Runtime.InteropServices;
 namespace GUI
 {
@@ -20,12 +21,7 @@ namespace GUI
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            if (checkBox1.Checked)
-            {
-                textBoxUsername.Enabled = true;
-                textBoxPass.Enabled = true;
-            }
-            else
+            if (textBoxServer.Enabled)
             {
                 textBoxUsername.Enabled = false;
                 textBoxUsername.Clear();
@@ -33,6 +29,12 @@ namespace GUI
                 textBoxPass.Enabled = false;
                 textBoxPass.Clear();
             }
+            else
+            {
+                textBoxUsername.Enabled = true;
+                textBoxPass.Enabled = true;
+            }
+
         }
         private Boolean validate()
         {
