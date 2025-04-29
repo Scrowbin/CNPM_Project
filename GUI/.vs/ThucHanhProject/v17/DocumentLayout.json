@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\gui\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmnotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmnotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\gui\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\homepageadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:homepageadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmshort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmshort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\gui\\frmelectricity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmelectricity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -14,7 +58,7 @@
       "AbsoluteMoniker": "D:0:0:{39685DE6-240D-4AC3-B085-F1C35875B151}|..\\DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\dal\\taikhoandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39685DE6-240D-4AC3-B085-F1C35875B151}|..\\DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\dal\\dich_vu_thue_nha.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{39685DE6-240D-4AC3-B085-F1C35875B151}|..\\DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\dal\\chothuecanho.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03D0826B-598F-4E9F-95E8-9BE422BC04C6}|..\\BUS\\BUS.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\bus\\taikhoanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -30,10 +74,6 @@
       "AbsoluteMoniker": "D:0:0:{8C70FEA2-E096-456F-B81F-97BFD955FFCD}|..\\DTO\\DTO.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\dto\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{03D0826B-598F-4E9F-95E8-9BE422BC04C6}|..\\BUS\\BUS.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\bus\\canhobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -41,30 +81,10 @@
       "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\gui\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39685DE6-240D-4AC3-B085-F1C35875B151}|..\\DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\dal\\chunhadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C70FEA2-E096-456F-B81F-97BFD955FFCD}|..\\DTO\\DTO.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\dto\\canho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\gui\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\gui\\frmelectricity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmelectricity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03D0826B-598F-4E9F-95E8-9BE422BC04C6}|..\\BUS\\BUS.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\bus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -99,24 +119,8 @@
       "AbsoluteMoniker": "D:0:0:{39685DE6-240D-4AC3-B085-F1C35875B151}|..\\DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmshort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmshort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmwater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmwater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\homepageadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:homepageadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmnotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmnotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\BUS\\BUS.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
@@ -129,10 +133,6 @@
       "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmwater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\gui\\frmshort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3148AB9A-D82C-4CDE-93BA-2723B377D6DD}|GUI.csproj|solutionrelative:frmshort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -140,10 +140,10 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\DTO\\CanHo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39685DE6-240D-4AC3-B085-F1C35875B151}|..\\DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\dal\\dich_vu_thue_nha.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{39685DE6-240D-4AC3-B085-F1C35875B151}|..\\DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\dal\\chothuecanho.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39685DE6-240D-4AC3-B085-F1C35875B151}|..\\DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\dal\\dich_vu_thue_nha.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{39685DE6-240D-4AC3-B085-F1C35875B151}|..\\DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\cnpm_project\\dal\\chothuecanho.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -203,88 +203,156 @@
         },
         {
           "DockedWidth": 176,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaiKhoanBUS.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\BUS\\TaiKhoanBUS.cs",
-              "RelativeDocumentMoniker": "..\\BUS\\TaiKhoanBUS.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\BUS\\TaiKhoanBUS.cs",
-              "RelativeToolTip": "..\\BUS\\TaiKhoanBUS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "frmReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmReport.cs",
+              "RelativeDocumentMoniker": "frmReport.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmReport.cs [Design]",
+              "RelativeToolTip": "frmReport.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T09:25:01.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T08:22:55Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\Config.cs",
-              "RelativeDocumentMoniker": "Config.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\Config.cs",
-              "RelativeToolTip": "Config.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAUwEgAAACVAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "frmNotify.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmNotify.cs",
+              "RelativeDocumentMoniker": "frmNotify.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmNotify.cs [Design]",
+              "RelativeToolTip": "frmNotify.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T15:43:06.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T14:24:01.159Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmSearch.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\FrmSearch.cs",
+              "RelativeDocumentMoniker": "FrmSearch.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\FrmSearch.cs [Design]",
+              "RelativeToolTip": "FrmSearch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:51:40.298Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmConfig.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmConfig.cs",
+              "RelativeDocumentMoniker": "frmConfig.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmConfig.cs [Design]",
+              "RelativeToolTip": "frmConfig.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:48:11.526Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmAccount.cs",
+              "RelativeDocumentMoniker": "frmAccount.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmAccount.cs [Design]",
+              "RelativeToolTip": "frmAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:22:45.833Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePageAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\HomePageAdmin.cs",
+              "RelativeDocumentMoniker": "HomePageAdmin.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\HomePageAdmin.cs [Design]",
+              "RelativeToolTip": "HomePageAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:51:43.036Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmShort.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmShort.cs",
+              "RelativeDocumentMoniker": "frmShort.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmShort.cs [Design]",
+              "RelativeToolTip": "frmShort.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:15:03.095Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmElectricity.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmElectricity.cs",
+              "RelativeDocumentMoniker": "frmElectricity.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmElectricity.cs [Design]",
+              "RelativeToolTip": "frmElectricity.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:22:51.639Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmLogin.cs [Design]",
+              "RelativeToolTip": "frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:21:28.341Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmContract.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmContract.cs",
+              "RelativeDocumentMoniker": "frmContract.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmContract.cs [Design]",
+              "RelativeToolTip": "frmContract.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:24:07.311Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frm.cs",
+              "RelativeDocumentMoniker": "frm.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frm.cs [Design]",
+              "RelativeToolTip": "frm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:14:31.36Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmLogin.cs*",
-              "RelativeToolTip": "frmLogin.cs*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwDgAAABHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmLogin.cs",
+              "RelativeToolTip": "frmLogin.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFIAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T08:26:28.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaiKhoanDAL.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DAL\\TaiKhoanDAL.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\TaiKhoanDAL.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DAL\\TaiKhoanDAL.cs",
-              "RelativeToolTip": "..\\DAL\\TaiKhoanDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T08:38:18.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DIch_vu_thue_nha.sql ",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DAL\\DIch_vu_thue_nha.sql",
-              "RelativeDocumentMoniker": "..\\DAL\\DIch_vu_thue_nha.sql",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DAL\\DIch_vu_thue_nha.sql",
-              "RelativeToolTip": "..\\DAL\\DIch_vu_thue_nha.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-28T07:44:00.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "dbConnect.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DAL\\dbConnect.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\dbConnect.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DAL\\dbConnect.cs",
-              "RelativeToolTip": "..\\DAL\\dbConnect.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAApwCEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T15:42:24.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "frm.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frm.cs",
               "RelativeDocumentMoniker": "frm.cs",
@@ -297,19 +365,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmLogin.cs",
-              "RelativeDocumentMoniker": "frmLogin.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmLogin.cs [Design]*",
-              "RelativeToolTip": "frmLogin.cs [Design]*",
+              "DocumentIndex": 16,
+              "Title": "dbConnect.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DAL\\dbConnect.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\dbConnect.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DAL\\dbConnect.cs",
+              "RelativeToolTip": "..\\DAL\\dbConnect.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAApwCEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T09:21:28.341Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-25T15:42:24.388Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
+              "Title": "ChoThueCanHo.sql ",
+              "DocumentMoniker": "C:\\Users\\Dell\\Source\\Repos\\CNPM_Project\\DAL\\ChoThueCanHo.sql",
+              "RelativeDocumentMoniker": "..\\DAL\\ChoThueCanHo.sql",
+              "ToolTip": "C:\\Users\\Dell\\Source\\Repos\\CNPM_Project\\DAL\\ChoThueCanHo.sql",
+              "RelativeToolTip": "..\\DAL\\ChoThueCanHo.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-28T07:44:00.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaiKhoanDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DAL\\TaiKhoanDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\TaiKhoanDAL.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DAL\\TaiKhoanDAL.cs",
+              "RelativeToolTip": "..\\DAL\\TaiKhoanDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:38:18.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\Config.cs",
+              "RelativeDocumentMoniker": "Config.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\Config.cs",
+              "RelativeToolTip": "Config.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwEgAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:43:06.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaiKhoanBUS.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\BUS\\TaiKhoanBUS.cs",
+              "RelativeDocumentMoniker": "..\\BUS\\TaiKhoanBUS.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\BUS\\TaiKhoanBUS.cs",
+              "RelativeToolTip": "..\\BUS\\TaiKhoanBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:25:01.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "TaiKhoan.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DTO\\TaiKhoan.cs",
               "RelativeDocumentMoniker": "..\\DTO\\TaiKhoan.cs",
@@ -322,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "CanHoBUS.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\BUS\\CanHoBUS.cs",
               "RelativeDocumentMoniker": "..\\BUS\\CanHoBUS.cs",
@@ -335,20 +455,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "frmLogin.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Source\\Repos\\CNPM_Project\\GUI\\frmLogin.Designer.cs",
               "RelativeDocumentMoniker": "frmLogin.Designer.cs",
               "ToolTip": "C:\\Users\\Dell\\Source\\Repos\\CNPM_Project\\GUI\\frmLogin.Designer.cs",
               "RelativeToolTip": "frmLogin.Designer.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T09:22:26.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "ChuNhaDAL.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DAL\\ChuNhaDAL.cs",
               "RelativeDocumentMoniker": "..\\DAL\\ChuNhaDAL.cs",
@@ -361,31 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "frmAccount.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmAccount.cs",
-              "RelativeDocumentMoniker": "frmAccount.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmAccount.cs [Design]",
-              "RelativeToolTip": "frmAccount.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T08:22:45.833Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FrmSearch.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\FrmSearch.cs",
-              "RelativeDocumentMoniker": "FrmSearch.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\FrmSearch.cs [Design]",
-              "RelativeToolTip": "FrmSearch.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T14:51:40.298Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "CanHo.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DTO\\CanHo.cs",
               "RelativeDocumentMoniker": "..\\DTO\\CanHo.cs",
@@ -398,43 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "frmReport.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmReport.cs",
-              "RelativeDocumentMoniker": "frmReport.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmReport.cs [Design]",
-              "RelativeToolTip": "frmReport.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T08:22:55Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "frmElectricity.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmElectricity.cs",
-              "RelativeDocumentMoniker": "frmElectricity.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmElectricity.cs [Design]",
-              "RelativeToolTip": "frmElectricity.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T08:22:51.639Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "frmConfig.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmConfig.cs",
-              "RelativeDocumentMoniker": "frmConfig.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmConfig.cs [Design]",
-              "RelativeToolTip": "frmConfig.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T19:48:11.526Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "frmConfig.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmConfig.cs",
               "RelativeDocumentMoniker": "frmConfig.cs",
@@ -447,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -460,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "CanHoDAL.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DAL\\CanHoDAL.cs",
               "RelativeDocumentMoniker": "..\\DAL\\CanHoDAL.cs",
@@ -472,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\BUS\\Program.cs",
               "RelativeDocumentMoniker": "..\\BUS\\Program.cs",
@@ -485,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "NguoiThueNhaBUS.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\BUS\\NguoiThueNhaBUS.cs",
               "RelativeDocumentMoniker": "..\\BUS\\NguoiThueNhaBUS.cs",
@@ -497,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "NguoiThueNhaDAL.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DAL\\NguoiThueNhaDAL.cs",
               "RelativeDocumentMoniker": "..\\DAL\\NguoiThueNhaDAL.cs",
@@ -509,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "ChuNhaBUS.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\BUS\\ChuNhaBUS.cs",
               "RelativeDocumentMoniker": "..\\BUS\\ChuNhaBUS.cs",
@@ -521,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "ChuNha.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DTO\\ChuNha.cs",
               "RelativeDocumentMoniker": "..\\DTO\\ChuNha.cs",
@@ -533,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "NguoiThueNha.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\DTO\\NguoiThueNha.cs",
               "RelativeDocumentMoniker": "..\\DTO\\NguoiThueNha.cs",
@@ -545,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "DAL.csproj",
               "DocumentMoniker": "C:\\Users\\Dell\\Source\\Repos\\CNPM_Project\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "..\\DAL\\DAL.csproj",
@@ -557,29 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "frmShort.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmShort.cs",
-              "RelativeDocumentMoniker": "frmShort.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmShort.cs [Design]",
-              "RelativeToolTip": "frmShort.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T08:15:03.095Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "HomePageAdmin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\HomePageAdmin.cs",
-              "RelativeDocumentMoniker": "HomePageAdmin.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\HomePageAdmin.cs [Design]",
-              "RelativeToolTip": "HomePageAdmin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T14:51:43.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "frmWater.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmWater.cs",
               "RelativeDocumentMoniker": "frmWater.cs",
@@ -590,29 +628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "frmContract.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmContract.cs",
-              "RelativeDocumentMoniker": "frmContract.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmContract.cs [Design]",
-              "RelativeToolTip": "frmContract.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T14:24:07.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "frmNotify.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmNotify.cs",
-              "RelativeDocumentMoniker": "frmNotify.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmNotify.cs [Design]",
-              "RelativeToolTip": "frmNotify.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T14:24:01.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "ChuNha.cs",
               "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\DTO\\ChuNha.cs",
               "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\DTO\\ChuNha.cs",
@@ -631,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "BUS.csproj",
               "DocumentMoniker": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\BUS\\BUS.csproj",
               "ToolTip": "F:\\NAM2HOCKY2\\CONG_NGHE_PHAN_MEM\\ThucHanh\\CNPM_Project\\BUS\\BUS.csproj",
@@ -652,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "frmWater.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frmWater.cs",
               "RelativeDocumentMoniker": "frmWater.cs",
@@ -661,18 +677,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T08:13:35.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "frm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frm.cs",
-              "RelativeDocumentMoniker": "frm.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CNPM_Project\\GUI\\frm.cs [Design]",
-              "RelativeToolTip": "frm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T08:14:31.36Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
