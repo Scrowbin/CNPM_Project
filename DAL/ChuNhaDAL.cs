@@ -10,7 +10,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement.ProgressBar;
 namespace DAL
 {
     public class ChuNhaDAL
-        {
+    {
         private dbConnect db;
 
         public ChuNhaDAL(string cn)

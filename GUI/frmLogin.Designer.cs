@@ -42,56 +42,54 @@ namespace GUI
             // 
             // btnForgotPassCustomer
             // 
-            btnForgotPassCustomer.Location = new Point(402, 233);
-            btnForgotPassCustomer.Margin = new Padding(3, 2, 3, 2);
+            btnForgotPassCustomer.Location = new Point(459, 311);
             btnForgotPassCustomer.Name = "btnForgotPassCustomer";
-            btnForgotPassCustomer.Size = new Size(111, 22);
-            btnForgotPassCustomer.TabIndex = 11;
+            btnForgotPassCustomer.Size = new Size(127, 29);
+            btnForgotPassCustomer.TabIndex = 4;
             btnForgotPassCustomer.Text = "Quên Mật Khẩu";
             btnForgotPassCustomer.UseVisualStyleBackColor = true;
+            btnForgotPassCustomer.Click += btnForgotPassCustomer_Click;
             // 
             // btnLoginCustomer
             // 
-            btnLoginCustomer.Location = new Point(150, 233);
-            btnLoginCustomer.Margin = new Padding(3, 2, 3, 2);
+            btnLoginCustomer.Location = new Point(171, 311);
             btnLoginCustomer.Name = "btnLoginCustomer";
-            btnLoginCustomer.Size = new Size(82, 22);
-            btnLoginCustomer.TabIndex = 6;
+            btnLoginCustomer.Size = new Size(94, 29);
+            btnLoginCustomer.TabIndex = 3;
             btnLoginCustomer.Text = "Đăng Nhập";
             btnLoginCustomer.UseVisualStyleBackColor = true;
             btnLoginCustomer.Click += btnLoginCustomer_Click;
             // 
             // txtPassCustomer
             // 
-            txtPassCustomer.Location = new Point(150, 170);
-            txtPassCustomer.Margin = new Padding(3, 2, 3, 2);
+            txtPassCustomer.Location = new Point(171, 227);
             txtPassCustomer.Name = "txtPassCustomer";
-            txtPassCustomer.Size = new Size(363, 23);
-            txtPassCustomer.TabIndex = 10;
+            txtPassCustomer.Size = new Size(414, 27);
+            txtPassCustomer.TabIndex = 2;
+            txtPassCustomer.UseSystemPasswordChar = true;
             // 
             // txtEmailCustomer
             // 
-            txtEmailCustomer.Location = new Point(150, 105);
-            txtEmailCustomer.Margin = new Padding(3, 2, 3, 2);
+            txtEmailCustomer.Location = new Point(171, 140);
             txtEmailCustomer.Name = "txtEmailCustomer";
-            txtEmailCustomer.Size = new Size(363, 23);
-            txtEmailCustomer.TabIndex = 9;
+            txtEmailCustomer.Size = new Size(414, 27);
+            txtEmailCustomer.TabIndex = 1;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(150, 146);
+            label2.Location = new Point(171, 195);
             label2.Name = "label2";
-            label2.Size = new Size(58, 15);
+            label2.Size = new Size(72, 20);
             label2.TabIndex = 8;
             label2.Text = "Mật Khẩu";
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(150, 78);
+            label1.Location = new Point(171, 104);
             label1.Name = "label1";
-            label1.Size = new Size(36, 15);
+            label1.Size = new Size(46, 20);
             label1.TabIndex = 7;
             label1.Text = "Email";
             // 
@@ -99,19 +97,18 @@ namespace GUI
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label3.Location = new Point(23, 15);
+            label3.Location = new Point(26, 20);
             label3.Name = "label3";
-            label3.Size = new Size(126, 30);
+            label3.Size = new Size(161, 38);
             label3.TabIndex = 19;
             label3.Text = "Đăng nhập";
-            label3.Click += label3_Click;
             // 
             // frmLogin
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(663, 281);
+            ClientSize = new Size(758, 375);
             Controls.Add(label3);
             Controls.Add(btnForgotPassCustomer);
             Controls.Add(btnLoginCustomer);
@@ -119,9 +116,7 @@ namespace GUI
             Controls.Add(txtEmailCustomer);
             Controls.Add(label2);
             Controls.Add(label1);
-            Margin = new Padding(3, 2, 3, 2);
             Name = "frmLogin";
-            Load += ucLoginCustomer_Load;
             ResumeLayout(false);
             PerformLayout();
         }

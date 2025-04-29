@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DAL
 {
-    internal class dbConnect
+    public class dbConnect
     {
         private SqlConnection conn;
 
@@ -73,10 +73,6 @@ namespace DAL
             conn.Close();
             return row;
         }
-
-
-
-
     }
 }
 
