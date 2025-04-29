@@ -35,3 +35,17 @@ _ReSharper*/
 # OS-generated files
 .DS_Store
 Thumbs.db
+/BUS/obj/BUS.csproj.nuget.g.props
+/DAL/obj/DAL.csproj.nuget.g.props
+/GUI/.vs/ProjectEvaluation/thuchanhproject.metadata.v9.bin
+/GUI/.vs/ProjectEvaluation/thuchanhproject.projects.v9.bin
+/GUI/.vs/ProjectEvaluation/thuchanhproject.strings.v9.bin
+/GUI/.vs/ThucHanhProject/DesignTimeBuild/.dtbcache.v2
+/GUI/.vs/ThucHanhProject/v17/.futdcache.v2
+/GUI/.vs/ThucHanhProject/v17/.suo
+/GUI/.vs/ThucHanhProject/v17/DocumentLayout.backup.json
+/GUI/.vs/ThucHanhProject/v17/DocumentLayout.json
+/GUI/GUI.csproj.user
+/GUI/obj/Debug/net8.0-windows/GUI.csproj.AssemblyReference.cache
+/GUI/obj/GUI.csproj.nuget.g.props
+/GUI/obj/project.assets.json
