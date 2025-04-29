@@ -2,16 +2,14 @@
 {
     public partial class frm : Form
     {
-        Form home;
 
         public frm()
         {
             InitializeComponent();
-            home = new HomePageAdmin();
-            showForm(home);
+            showForm(new HomePageAdmin(this));
         }
 
-        private void showForm(Form a)
+        public void showForm(Form a)
         {
             foreach (Control ctrl in panel1.Controls)
             {
@@ -28,34 +26,40 @@
 
         private void homeToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            showForm(home);
+            showForm(new HomePageAdmin(this));
         }
 
-        private void searchToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void myRentalsToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            showForm(new frmRental());
         }
 
-        private void paymentToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void notificationToolStripMenuItem_Click(object sender, EventArgs e)
         {
             showForm(new frmNotify());
         }
 
-        private void panel2_Paint(object sender, PaintEventArgs e)
+        private void paymentToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            showForm(new frmContract());
         }
 
+        private void myInfoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            showForm(new frmAccount());
+        }
+
+        private void báoCáoDoanhThuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            showForm(new frmReport());
+        }
+
+        private void tiềnĐiệnToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            showForm(new frmElectricity());
+        }
     }
 
 }

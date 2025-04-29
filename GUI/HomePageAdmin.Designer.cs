@@ -32,8 +32,8 @@
             button5 = new Button();
             button4 = new Button();
             button3 = new Button();
-            button1 = new Button();
             button2 = new Button();
+            button1 = new Button();
             tableLayoutPanel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -48,8 +48,8 @@
             tableLayoutPanel1.Controls.Add(button5, 0, 0);
             tableLayoutPanel1.Controls.Add(button4, 3, 0);
             tableLayoutPanel1.Controls.Add(button3, 0, 2);
-            tableLayoutPanel1.Controls.Add(button1, 2, 1);
             tableLayoutPanel1.Controls.Add(button2, 3, 2);
+            tableLayoutPanel1.Controls.Add(button1, 2, 1);
             tableLayoutPanel1.Dock = DockStyle.Fill;
             tableLayoutPanel1.Location = new Point(0, 0);
             tableLayoutPanel1.Name = "tableLayoutPanel1";
@@ -88,6 +88,7 @@
             button4.TabIndex = 13;
             button4.Text = "Quản lý căn hộ";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // button3
             // 
@@ -101,18 +102,7 @@
             button3.TabIndex = 12;
             button3.Text = "Thông báo nhắc nhở";
             button3.UseVisualStyleBackColor = true;
-            // 
-            // button1
-            // 
-            button1.Anchor = AnchorStyles.None;
-            button1.Font = new Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button1.Location = new Point(343, 273);
-            button1.Name = "button1";
-            button1.Size = new Size(306, 174);
-            button1.TabIndex = 10;
-            button1.Text = "Thông tin chủ hộ";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            button3.Click += button3_Click;
             // 
             // button2
             // 
@@ -125,6 +115,19 @@
             button2.TabIndex = 17;
             button2.Text = "Báo cáo Doanh thu";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
+            // button1
+            // 
+            button1.Anchor = AnchorStyles.None;
+            button1.Font = new Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            button1.Location = new Point(343, 273);
+            button1.Name = "button1";
+            button1.Size = new Size(306, 174);
+            button1.TabIndex = 10;
+            button1.Text = "Thông tin chủ hộ";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // HomePageAdmin
             // 

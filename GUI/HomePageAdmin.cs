@@ -12,14 +12,17 @@ namespace GUI
 {
     public partial class HomePageAdmin : Form
     {
-        public HomePageAdmin()
+        private frm _mainForm;
+
+        public HomePageAdmin(frm mainForm)
         {
             InitializeComponent();
+            _mainForm = mainForm;
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            _mainForm.showForm(new frmAccount());
         }
 
         private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
@@ -29,7 +32,22 @@ namespace GUI
 
         private void button5_Click(object sender, EventArgs e)
         {
+            _mainForm.showForm(new frmContract());
+        }
 
+        private void button4_Click(object sender, EventArgs e)
+        {
+            _mainForm.showForm(new frmRental());
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            _mainForm.showForm(new frmNotify());
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            _mainForm.showForm(new frmReport());
         }
     }
 }

@@ -26,18 +26,14 @@
                     Application.Run(new frmConfig());
                 }
             }
-            else
+            try
             {
-
-                try
-                {
-                    Config.LoadConfig();
-                    Application.Run(new frmLogin());
-                }
-                catch (Exception e)
-                {
-                    MessageBox.Show("Lỗi config", e.Message);
-                }
+                Config.LoadConfig();
+                Application.Run(new frmLogin());
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Lỗi config", e.Message);
             }
         }
     }
