@@ -66,7 +66,7 @@ namespace GUI
                         textBoxUsername.Text,               // Username
                         textBoxPass.Text                // Password
                     };
-
+                Config.writeToFile(lines);
                 // ... same as before
                 this.DialogResult = DialogResult.OK; // success
                 this.Close();
