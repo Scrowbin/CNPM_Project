@@ -16,5 +16,10 @@ namespace DTO
         public float? DienTich { get; set; }
         public int GiaThueDaiHan { get; set; }
         public int GiaThueNganHan { get; set; }
+        public List<NguoiThueNha> NguoiThueNhas { get; set; }
+        public override string ToString()
+        {
+            return TenCanHo;
+        }
     }
 }

@@ -88,6 +88,7 @@
             button4.TabIndex = 13;
             button4.Text = "Quản lý căn hộ";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // button3
             // 
@@ -101,6 +102,7 @@
             button3.TabIndex = 12;
             button3.Text = "Thông báo nhắc nhở";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button1
             // 
@@ -125,6 +127,7 @@
             button2.TabIndex = 17;
             button2.Text = "Báo cáo Doanh thu";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // HomePageAdmin
             // 

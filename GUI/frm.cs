@@ -29,6 +29,7 @@
             showForm(new HomePageAdmin(this));
         }
 
+      
 
         private void myRentalsToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -41,7 +42,7 @@
             showForm(new frmNotify());
         }
 
-        private void paymentToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ContractToolStripMenuItem_Click(object sender, EventArgs e)
         {
             showForm(new frmContract());
         }
